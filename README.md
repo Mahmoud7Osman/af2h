@@ -34,7 +34,4 @@ This utility is provided under the [MIT License](https://opensource.org/licenses
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests through GitHub.
 
 ### Author
-This utility was developed by [Mahmoud Osman] ([Your GitHub Profile](https://github.com/Mahmoud7Osman)).
-
-### Acknowledgements
-Special thanks to [any contributors or resources you wish to acknowledge].
+This utility was developed by ([Mahmoud Osman](https://github.com/Mahmoud7Osman)).

@@ -1,9 +1,9 @@
-## af2h - Binary to C Header Converter
+## af2h - Converts Any File to C/C++ Header File
 
 The `af2h` utility is designed to convert binary files, specifically DLL files, into C header files. This enables the binary data of the DLL file to be embedded directly into a C program.
 
 ### Purpose
-The purpose of this utility is to simplify the process of embedding binary data, such as DLL files, into C programs. By converting the binary data into a C header file, developers can easily include the data directly in their C code without the need for external files.
+The purpose of this utility is to simplify the process of embedding binary data, such as DLL files, Images, Videos, Any Kind Of File, into C/C++ programs. By converting the binary data into a C header file, developers can easily include the data directly in their C code without the need for external files.
 
 ### How to Use
 1. **Compilation**: Compile the `af2h.c` source code using GCC:
